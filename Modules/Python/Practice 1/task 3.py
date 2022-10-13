@@ -1,5 +1,3 @@
-import difflib
-
 def check_sentences():
 
     count = int(input('Число правильных слов: '))
